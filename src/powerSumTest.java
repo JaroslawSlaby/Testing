@@ -6,6 +6,9 @@ import java.math.BigDecimal;
 /**
  * Created by jarek on 4/24/17.
  */
+
+//comment
+    
 class powerSumTest extends powerSum {
 
     @Test
